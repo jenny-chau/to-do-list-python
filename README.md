@@ -19,7 +19,7 @@
 - Prompt for user to enter a number associated with a menu action
     - Error prints out if input is invalid
 - Menu option 1: Add task
-    - Prompts user to enter a task to add
+    - Prompts user to input a task to add
     - Adds the task to the to-do list
 - Menu option 2: View tasks
     - Displays a numbered list of the user's tasks by using a for loop
